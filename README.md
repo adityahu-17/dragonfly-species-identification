@@ -1,4 +1,4 @@
-# dragonfly-species-identification
+# Dragonfly-Species-Identification
 Identify Dragonfly Species using data mined from Facebook dragonfly SouthAsia Group.
 ## Task 1
 * Get Data from Facebook Dragonfly SouthAsia Group
